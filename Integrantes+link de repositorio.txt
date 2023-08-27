@@ -1,10 +1,16 @@
 Buen día Ingeniero.
 
-Adjunto link de nuestro repositorio: 
+*** Adjunto link de nuestro repositorio: 
 
 -> https://github.com/orellana888/Tarea_TiendaCrud 
 
-Integrantes: 
+***  Integrantes: 
 
 -> Henry Orellana Reyes - 20192001334 
 -> Indira Izaguirre Serrano - 20182003138
+
+*** Credenciales: 
+
+-> user: admin
+-> password: admin
+
